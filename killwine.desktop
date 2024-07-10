@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=killwine
+Comment=A shell script for killing Wine and Proton processes
+Exec=killwine
+Icon=wine
