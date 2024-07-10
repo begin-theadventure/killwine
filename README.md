@@ -12,7 +12,7 @@ Different distros:
 
 Download [killwine.sh](https://github.com/begin-theadventure/killwine/raw/main/killwine.sh), allow executing, and create an alias command:
 
-`alias killwine=`'/path/to`/killwine.sh'`
+`alias killwine='`/path/to`/killwine.sh'`
 
 in one of these files: `~/.bashrc` / `~/.zshrc` / `~/.config/fish/config.fish`.
 
