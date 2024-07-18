@@ -1,5 +1,5 @@
 [Desktop Entry]
 Name=killwine
 Comment=A shell script for killing Wine and Proton processes
-Exec=killwine
+Exec=killwine & notify-send "killwine" "Killing Wine.." -t 1000
 Icon=wine
